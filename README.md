@@ -1,2 +1,1 @@
-# apertium
-apertium
+README
